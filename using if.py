@@ -17,7 +17,7 @@ tot = a+b+c+d+e
 
 
 #MENCARI NILAI MINIMUM
-maks = 0
+maks = a
 if a > maks:
     maks = a
 if b > maks:
@@ -31,7 +31,7 @@ if e > maks:
 
 
 #MENCARI NILAI MINIMUM
-mins = 10000000000000000000000000000000000000000000000000000000000000000000000
+mins = a
 if a < mins:
     mins = a
 if b < mins:
